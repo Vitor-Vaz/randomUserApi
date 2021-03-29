@@ -1,0 +1,15 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "Exercicio de criaçao de uma API que gera usuarios aleatorios e retorna atraves de um Json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Vaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.1"
+  }
+}
